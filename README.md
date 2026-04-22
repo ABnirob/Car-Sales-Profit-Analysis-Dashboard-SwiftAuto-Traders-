@@ -20,7 +20,6 @@ GitHub for project documentation
 
 
 📁 Dataset Description:
-
 The dataset includes:
 Dealer ID – Unique identifier for each dealership
 Model – Car model (Hudson, Labrador, Champlain, Salish)
@@ -30,7 +29,6 @@ Profit – Profit generated per transaction
 
 
 📊 Dashboard Overview:
-
 🔵 Sales Dashboard:
 Key metrics displayed:
 Total Profit
@@ -42,6 +40,7 @@ Quantity Sold by Model
 Profit by Dealer ID (sorted ascending)
 Profit by Date and Model
 Profit of Hudson Models by Dealer ID
+
 
 🟢 Service Dashboard:
 Key insights include:
@@ -77,7 +76,6 @@ A small number of dealers contribute disproportionately to total profits
 Certain models (like Hudson) are highly profitable but concentrated among top dealers
 Some models underperform significantly and may require pricing or marketing adjustments
 Service performance data highlights opportunities to improve customer satisfaction and operational efficiency
-
 This dashboard enables leadership to make data-driven decisions regarding inventory allocation, dealer incentives, and model strategy.
 
 
