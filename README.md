@@ -1,10 +1,10 @@
-# Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-
+# Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders
 
-📊 Project Overview
+📊 Project Overview:
 This project analyzes historical car sales and profit data for SwiftAuto Traders, a multi-dealer automotive company. The goal is to uncover insights into sales performance, profitability trends, and dealer efficiency using Excel dashboards and data visualization techniques. The project simulates a real-world business scenario where a Junior Data Analyst is responsible for transforming raw sales data into actionable insights for management decision-making.
 
 
-🎯 Objectives
+🎯 Objectives:
 Analyze car sales performance across dealers and models
 Identify profit trends over time (daily, yearly, and by model)
 Compare dealer performance in terms of quantity sold and profit
@@ -12,14 +12,15 @@ Build interactive dashboards for Sales and Service insights
 Extract key business insights for decision-making
 
 
-🧰 Tools & Technologies Used
+🧰 Tools & Technologies Used:
 Microsoft Excel (Pivot Tables, Charts, Dashboard Design)
 Data Visualization (Bar, Line, Column Charts)
 Data Aggregation & Filtering
 GitHub for project documentation
 
 
-📁 Dataset Description
+📁 Dataset Description:
+
 The dataset includes:
 Dealer ID – Unique identifier for each dealership
 Model – Car model (Hudson, Labrador, Champlain, Salish)
@@ -30,7 +31,7 @@ Profit – Profit generated per transaction
 
 📊 Dashboard Overview:
 
-🔵 Sales Dashboard
+🔵 Sales Dashboard:
 Key metrics displayed:
 Total Profit
 Total Quantity Sold
@@ -42,14 +43,12 @@ Profit by Dealer ID (sorted ascending)
 Profit by Date and Model
 Profit of Hudson Models by Dealer ID
 
-
-🟢 Service Dashboard
+🟢 Service Dashboard:
 Key insights include:
 Customer satisfaction metrics
 Service cost breakdown
 Recall analysis by model
 Dealer-wise service performance
-
 
 Visualizations:
 Recalls by Model
@@ -58,7 +57,7 @@ Service Cost Distribution
 Dealer Service Performance Heatmap
 
 
-📌 Key Business Insights
+📌 Key Business Insights:
 Dealer 1288 achieved the highest total quantity of cars sold
 Labrador model generated the lowest overall profit
 Dealer 1301 achieved the highest profit from Hudson model sales
@@ -66,9 +65,9 @@ Profit trends vary significantly across dealers, indicating performance imbalanc
 Hudson model shows strong profitability concentration in top-performing dealers
 
 
-📷 Dashboard Preview
-Sales Dashboard: <img width="1536" height="1024" alt="SwiftAuto Traders sales dashboard overview" src="https://github.com/user-attachments/assets/62234ad6-d0f1-4d85-8e10-1ef884508c94" />
+📷 Dashboard Preview:
 
+Sales Dashboard: <img width="1536" height="1024" alt="SwiftAuto Traders sales dashboard overview" src="https://github.com/user-attachments/assets/62234ad6-d0f1-4d85-8e10-1ef884508c94" />
 
 Service Dashboard: <img width="1672" height="941" alt="Service Dashboard" src="https://github.com/user-attachments/assets/1acb2f22-91e8-402a-aa0c-25d83c667e8d" />
  
