@@ -84,10 +84,8 @@ This dashboard enables leadership to make data-driven decisions regarding invent
 🚀 How to Use This Project:
 1. Clone the repository:
 git clone https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-.git 
-
 2. Open Excel file:
 CarSalesByModelEnd.xlsx
-
 3. Navigate through:
 Sheet1 → Dealer Quantity Analysis
 Sheet2 → Profit Trends
