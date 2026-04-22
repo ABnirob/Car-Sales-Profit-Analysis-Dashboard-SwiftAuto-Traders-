@@ -66,7 +66,6 @@ Hudson model shows strong profitability concentration in top-performing dealers
 
 
 📷 Dashboard Preview:
-
 Sales Dashboard: <img width="1532" height="630" alt="SwiftAuto Traders sales dashboard overview" src="https://github.com/user-attachments/assets/215dd13c-61ee-493f-aab6-a1f10bfdf305" />
   
 Service Dashboard: <img width="1672" height="941" alt="Service Dashboard" src="https://github.com/user-attachments/assets/1acb2f22-91e8-402a-aa0c-25d83c667e8d" />
@@ -80,3 +79,22 @@ Some models underperform significantly and may require pricing or marketing adju
 Service performance data highlights opportunities to improve customer satisfaction and operational efficiency
 
 This dashboard enables leadership to make data-driven decisions regarding inventory allocation, dealer incentives, and model strategy.
+
+
+🚀 How to Use This Project:
+1. Clone the repository:
+git clone https://github.com/ABnirob/Car-Sales-Profit-Analysis-Dashboard-SwiftAuto-Traders-.git 
+
+2. Open Excel file:
+CarSalesByModelEnd.xlsx
+
+3. Navigate through:
+Sheet1 → Dealer Quantity Analysis
+Sheet2 → Profit Trends
+Sheet3 → Yearly Dealer Performance
+Sheet4 → Hudson Model Analysis
+Dashboard → Summary View
+
+
+📌 Conclusion:
+This project demonstrates how raw transactional data can be transformed into meaningful business intelligence using Excel dashboards. It highlights the importance of visualization in identifying trends, inefficiencies, and growth opportunities in retail automotive sales.
