@@ -29,6 +29,7 @@ Profit – Profit generated per transaction
 
 
 📊 Dashboard Overview:
+
 🔵 Sales Dashboard
 Key metrics displayed:
 Total Profit
@@ -41,12 +42,14 @@ Profit by Dealer ID (sorted ascending)
 Profit by Date and Model
 Profit of Hudson Models by Dealer ID
 
+
 🟢 Service Dashboard
 Key insights include:
 Customer satisfaction metrics
 Service cost breakdown
 Recall analysis by model
 Dealer-wise service performance
+
 
 Visualizations:
 Recalls by Model
@@ -65,6 +68,8 @@ Hudson model shows strong profitability concentration in top-performing dealers
 
 📷 Dashboard Preview
 Sales Dashboard: <img width="1536" height="1024" alt="SwiftAuto Traders sales dashboard overview" src="https://github.com/user-attachments/assets/62234ad6-d0f1-4d85-8e10-1ef884508c94" />
+
+
 Service Dashboard: <img width="1672" height="941" alt="Service Dashboard" src="https://github.com/user-attachments/assets/1acb2f22-91e8-402a-aa0c-25d83c667e8d" />
  
 
