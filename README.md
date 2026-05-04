@@ -17,6 +17,9 @@
 
 ## 📌 Executive Summary
 
+This project analyzes historical car sales and profit data for **SwiftAuto Traders**, a multi-dealer automotive company. The goal is to uncover insights into sales performance, profitability trends, and dealer efficiency using Excel dashboards and data visualization techniques.
+
+The project simulates a real-world business scenario where a **Junior Data Analyst** transforms raw sales data into actionable insights for management decision-making.
 This project delivers a **business-focused analysis of car sales and profitability** for *SwiftAuto Traders*, combining:
 
 * 📊 Data Analysis (Python, Pandas)
