@@ -132,6 +132,12 @@ Dealer ID
 ---
 
 ## 🖼️ Dashboard Preview
+### Sales Dashboard
+<img width="1532" height="630" alt="SwiftAuto Traders Sales Dashboard Overview" src="https://github.com/user-attachments/assets/215dd13c-61ee-493f-aab6-a1f10bfdf305" />
+
+### Service Dashboard
+<img width="1672" height="941" alt="Service Dashboard" src="https://github.com/user-attachments/assets/1acb2f22-91e8-402a-aa0c-25d83c667e8d" />
+
 
 📂 Open dashboard:
 
